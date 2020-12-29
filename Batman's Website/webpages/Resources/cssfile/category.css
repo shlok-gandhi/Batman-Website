@@ -1,0 +1,32 @@
+.navbar-inverse
+.navbar-nav>li>a{
+color:yellow;
+}
+.navbar-inverse
+.navbar-nav>li>a:hover{
+	opacity:0.9;
+	border-bottom:5px solid #fff000;
+	color:yellow;
+}
+.navbar-inverse{
+	background-color:black;
+}
+h1{
+margin-top:0px;
+}
+.thumbnail{
+margin-top:30px;
+margin-bottom:28px;
+border:solid 3px #fff000;
+border-radius:20px;
+}
+.btnb{
+text-align:right;
+}
+footer{
+background-color:black;
+padding:15px;
+color:white;
+text-align:center;
+margin-top:29px
+}

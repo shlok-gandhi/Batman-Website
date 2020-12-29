@@ -1,0 +1,28 @@
+.navbar-inverse
+.navbar-nav>li>a{
+color:yellow;
+}
+.navbar-inverse
+.navbar-nav>li>a:hover{
+	opacity:0.9;
+	border-bottom:5px solid #fff000;
+	color:yellow;
+}
+.navbar-inverse{
+	background-color:black;
+}
+#row1{
+text-align:center
+}
+#ty{
+text-align:center;
+}
+table{
+font-size:17px;
+}
+footer{
+background-color:black;
+padding:15px;
+color:white;
+text-align:center;
+}

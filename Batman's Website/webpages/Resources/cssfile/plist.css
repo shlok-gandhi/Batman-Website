@@ -1,0 +1,46 @@
+.navbar-inverse
+.navbar-nav>li>a{
+color:yellow;
+}
+.navbar-inverse
+.navbar-nav>li>a:hover{
+	opacity:0.9;
+	border-bottom:5px solid #fff000;
+	color:yellow;
+}
+.navbar-inverse{
+	background-color:black;
+}
+h1{
+margin-top:0px;
+}
+.panel-heading{
+font-size:18px;
+}
+.thumbnail{
+border:solid 3px #fff000;
+border-radius:10px;
+
+}
+.btn{
+text-align:right;
+margin-right:20px;
+margin-top:20px; 
+}
+.panel,.thumbnail{
+margin-top:10px;
+}
+.form-inline .form-control{
+width:10px;
+}
+.btnb{
+text-align:right;
+margin-top:-20px;
+}
+footer{
+background-color:black;
+padding:15px;
+color:white;
+text-align:center;
+margin-top:14px;
+}
